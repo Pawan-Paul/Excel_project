@@ -1,27 +1,33 @@
-Vrinda Store data analysis project aimed at boosting sales performance for Vrinda Store in the upcoming year. Through comprehensive data analysis, I uncovered valuable insights and actionable strategies to drive growth and revenue.
-Here i have created a report in  the form of interactive dashboard and Data is included in the file itself.
-I'm excited to share the insights and learnings from my recent data analysis📊 project, where I had dived deep into Vrinda Store's online sales data🚀.
+# Pandas-Data-Analysis-Tasks
+Set of real world data analysis tasks completed using the Python Pandas library.
 
-❇ Objectives
+## Setup
 
-➡ Sales Trends Identification
-➡ Customer Behavior Analysis
-➡ Inventory Optimization
-➡ Recommendations for 2023
+To access all of the files click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
 
-❇ Process
+## Background Information:
 
-➡ Data Cleaning and processing.
-➡ Data analysis using Pivot tables, Charts etc.
-➡ Connecting all charts and tables.
-➡ Making an interactive dashboard using slicers.
+In this file I used Python Pandas & Python Matplotlib to analyze and answer business questions about 12 months worth of sales data. The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
-❇ Learnings
+We start by cleaning our data. Tasks during this section include:
+- Drop NaN values from DataFrame
+- Removing rows based on a condition
+- Change the type of columns (to_numeric, to_datetime, astype)
 
-➡ Usage of Pivot tables and charts
-➡ Data-Driven Decision-Making
-➡ Customer-Centric Approach
-➡ Continuous Improvement
+Once we have cleaned up our data a bit, we move the data exploration section. In this section we explore 5 high level business questions related to our data:
+- What was the best month for sales? How much was earned that month?
+- What city sold the most product?
+- What time should we display advertisemens to maximize the likelihood of customer’s buying product?
+- What products are most often sold together?
+- What product sold the most? Why do you think it sold the most?
 
-I'm proud of the outcomes achieved in this project and excited about the future prospects.
-If you have any questions, insights, or experiences to share, please feel free to connect or leave a comment. Let's continue to learn and grow together!
+To answer these questions we walk through many different pandas & matplotlib methods. They include:
+- Concatenating multiple csvs together to create a new DataFrame (pd.concat)
+- Adding columns
+- Parsing cells as strings to make new columns (.str)
+- Using the .apply() method
+- Using groupby to perform aggregate analysis
+- Plotting bar charts and lines graphs to visualize our results
+- Labeling our graphs
+
+Author: Pawan Pal
