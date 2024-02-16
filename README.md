@@ -30,4 +30,9 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
+## Presentation
+
+[Presentation1.pptx](https://github.com/Pawan-Paul/Pyhton_projects/files/14308760/Presentation1.pptx)
+
+
 Author: Pawan Pal
