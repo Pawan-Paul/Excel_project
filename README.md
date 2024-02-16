@@ -30,6 +30,8 @@ To answer these questions we walk through many different pandas & matplotlib met
 - Plotting bar charts and lines graphs to visualize our results
 - Labeling our graphs
 
+Here is the link to dataset: https://github.com/KeithGalli/Pandas-Data-Science-Tasks/tree/master/SalesAnalysis/Sales_Data
+
 ## Presentation
 ![Slide1](https://github.com/Pawan-Paul/Pyhton_projects/assets/144881105/7188d9bd-583b-4425-8be8-1dbd72316653)
 
