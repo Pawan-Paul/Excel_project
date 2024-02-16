@@ -1,4 +1,4 @@
-# Pandas-Data-Analysis-Tasks
+# Data Analysis using Pyhton - Pandas & Matplotlib
 Set of real world data analysis tasks completed using the Python Pandas library.
 
 ## Setup
